@@ -53,6 +53,6 @@ Permissions are strictly enforced at both the **UI Component Layer** (via a cust
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/pulseboard-rbac.git](https://github.com/YOUR_USERNAME/pulseboard-rbac.git)
+git clone ...
 cd pulseboard-rbac
 npm install
